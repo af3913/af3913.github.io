@@ -27,4 +27,4 @@ I currently teach undergraduate economics courses, including Principles of Micro
 
 **Email:** aferrante12@fordham.edu  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/alex-ferrante-874a46a9/)  
-**CV:** [Download CV](/assets/files/Alexander_Ferrante_CV.pdf)
+**CV:** [Download CV](/assets/files/Alexander_Ferrante_CV_2026).pdf)
