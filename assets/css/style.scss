@@ -26,9 +26,13 @@ body {
 }
 
 .profile-img {
+  display: block;
   width: 180px;
+  max-width: 100%;
+  height: auto;
   border-radius: 12px;
-  margin-bottom: 24px;
+  margin: 0 0 24px 0;
+  object-fit: cover;
 }
 
 .sidebar h1 {
