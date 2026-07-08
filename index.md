@@ -24,7 +24,7 @@ My current research studies the short-run effects of New York City’s congestio
 
 ## Teaching
 
-I currently teach undergraduate economics courses, including Principles of Microeconomics.
+I currently teach undergraduate Principles of Microeconomics.
 
 ## Contact
 
