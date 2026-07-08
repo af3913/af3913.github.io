@@ -9,7 +9,7 @@ title: Research
 
 ### The Road Less Traveled: Effects of Congestion Pricing on Collisions and Injuries in New York City
 
-**Abstract: This paper estimates the effects of New York City’s congestion pricing policy on motor
+**Abstract:** This paper estimates the effects of New York City’s congestion pricing policy on motor
 vehicle collisions and traffic-related injuries. Using geo-located crash data, the analysis
 finds that during weekday peak hours within the Congestion Relief Zone (CRZ), crashes
 per ZIP-hour-day declined by approximately 69 percent, corresponding to roughly 12
