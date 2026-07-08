@@ -18,6 +18,9 @@ My work uses quasi-experimental methods and spatial analysis to study how policy
 
 My current research studies the short-run effects of New York City’s congestion pricing program on crashes, injuries, pedestrian safety, and travel behavior. The project uses high-frequency crash data, geographic treatment boundaries, and difference-in-discontinuities methods to evaluate whether pricing road use changes roadway safety outcomes.
 
+## Professional Experience 
+
+
 
 ## Teaching
 
@@ -27,4 +30,4 @@ I currently teach undergraduate economics courses, including Principles of Micro
 
 **Email:** aferrante12@fordham.edu  
 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/alex-ferrante-874a46a9/)  
-**CV:** [Download CV](/assets/files/Alexander_Ferrante_CV_2026).pdf)
+**CV:** [Download CV](/assets/files/Alexander_Ferrante_CV_2026).pdf
