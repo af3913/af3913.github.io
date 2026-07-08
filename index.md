@@ -11,14 +11,6 @@ I am a Ph.D. Candidate in Economics at Fordham University. My research interests
 
 My work uses administrative data, quasi-experimental methods, and spatial analysis to study how policy changes affect economic behavior, mobility, labor markets, and public safety.
 
-## Research Interests
-
-- Applied microeconomics
-- Urban and transportation economics
-- Labor economics
-- Health economics
-- Education and workforce development
-- Causal inference and policy evaluation
 
 ## Research
 
