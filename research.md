@@ -5,6 +5,7 @@ title: Research
 
 # Research
 
+---
 ## Working Papers
 
 ### The Road Less Traveled: Effects of Congestion Pricing on Collisions and Injuries in New York City
@@ -22,10 +23,22 @@ mand for arriving at work on time. Off-peak estimates indicate an isolated incre
 crashes and injuries within the CRZ. Weekday net effects show congestion pricing im-
 proving roadway safety inside the CRZ while increasing crash and injury risk above the
 boundary, suggesting possible crash displacement to nearby, untolled areas
- 
+
+---
+
+---
 ## Research in Progress
 
 ### Exploring the Evolution and Impact of The Gender Gap On Students Self‑perceptions
 
 **Description:** In this project, we hypothesize and test that an individual’s economic circumstance maps back into their self perception relative to others in society. Specifically, explore how economic prosperity and downturns impact self‑perceptions in intelligence and ability for 12th graders in the US.
+---
+
+---
+## Publications
+
+### Factors Influencing Carbonated Soft‑Drink and Bottled Water Consumption: Survey Evidence from Nicaragua. 2019. International Journal of Health Promotion and Education.
+
+### Is the U.S. Facing a Housing Famine? 2026. Economic Architecture Project. 
+
 ---
