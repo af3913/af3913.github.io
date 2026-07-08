@@ -1,3 +1,6 @@
+---
+---
+
 * {
   box-sizing: border-box;
 }
@@ -25,21 +28,34 @@ body {
   align-self: start;
 }
 
+/* Force the sidebar profile image to stay small */
 .profile-img {
   display: block;
-  width: 16px;
-  max-width: 16px;
-  height: auto;
+  width: 160px !important;
+  max-width: 160px !important;
+  min-width: 160px;
+  height: auto !important;
+  max-height: 220px;
+  object-fit: cover;
   border-radius: 12px;
   margin: 0 0 24px 0;
-  object-fit: cover;
 }
 
+/* Backup rule in case the class is ignored for some reason */
 .sidebar img {
-  width: 16px;
-  max-width: 16px;
-  height: auto;
-}e-height: 1.2;
+  display: block;
+  width: 160px !important;
+  max-width: 160px !important;
+  height: auto !important;
+  max-height: 220px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}
+
+.sidebar h1 {
+  font-size: 1.7rem;
+  margin: 0 0 8px;
+  line-height: 1.2;
 }
 
 .subtitle {
@@ -48,20 +64,20 @@ body {
   margin-bottom: 24px;
 }
 
-nav {
+.site-nav {
   display: flex;
   flex-direction: column;
   gap: 10px;
   margin-top: 20px;
 }
 
-nav a {
+.site-nav a {
   text-decoration: none;
   color: #1f4e79;
   font-weight: 600;
 }
 
-nav a:hover {
+.site-nav a:hover {
   text-decoration: underline;
 }
 
@@ -69,7 +85,7 @@ nav a:hover {
   background: #fff;
   padding: 48px 58px;
   border-radius: 14px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.06);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.06);
 }
 
 .content h1 {
@@ -87,6 +103,10 @@ nav a:hover {
 .content h3 {
   margin-top: 28px;
   font-size: 1.15rem;
+}
+
+.content p {
+  margin: 0 0 1rem 0;
 }
 
 a {
@@ -113,18 +133,19 @@ li {
     text-align: center;
   }
 
-  nav {
+  .profile-img,
+  .sidebar img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 140px !important;
+    max-width: 140px !important;
+  }
+
+  .site-nav {
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
   }
-
-  .sidebar img {
-  width: 160px;
-  max-width: 160px;
-  height: auto;
-  border-radius: 12px;
-}
 
   .content {
     padding: 30px 24px;
