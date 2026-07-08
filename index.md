@@ -11,9 +11,11 @@ I am a Ph.D. Candidate in Economics at Fordham University. My research interests
 
 My work uses quasi-experimental methods and spatial analysis to study how policy changes affect economic behavior, mobility, labor markets, and public safety.
 
-## Education 
+## Education
 
-
+- **Ph.D. in Economics**, Fordham University *(in progress)*
+- **M.A. in Economics**, New York University
+- **B.S. in Economics**, Fairfield University
 
 ## Research
 
