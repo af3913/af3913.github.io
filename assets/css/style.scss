@@ -118,6 +118,13 @@ li {
     flex-wrap: wrap;
   }
 
+  .sidebar img {
+  width: 160px;
+  max-width: 160px;
+  height: auto;
+  border-radius: 12px;
+}
+
   .content {
     padding: 30px 24px;
   }
