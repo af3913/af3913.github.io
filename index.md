@@ -11,6 +11,9 @@ I am a Ph.D. Candidate in Economics at Fordham University. My research interests
 
 My work uses quasi-experimental methods and spatial analysis to study how policy changes affect economic behavior, mobility, labor markets, and public safety.
 
+## Education 
+
+
 
 ## Research
 
@@ -20,11 +23,11 @@ My current research studies the short-run effects of New York City’s congestio
 
 ## Professional Experience 
 
-
+I am currently an Economist Intern at Oxford Economics. Previously, I have held research and policy roles across government, academia, and international organizations, including the New York State Department of Labor, Economic Architecture, New York University, the State of Hawaii Public Utility Commission, the World Bank Group, the United Nations, Yale School of Medicine, and Fairfield University.
 
 ## Teaching
 
-I currently teach undergraduate Principles of Microeconomics.
+Undergraduate Principles of Microeconomics.
 
 ## Contact
 
