@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title }} | {{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -10,30 +10,27 @@
 
 <body>
   <div class="page">
-
     <aside class="sidebar">
-      <img 
-  src="{{ site.logo | relative_url }}" 
-  alt="Alexander Ferrante" 
-  class="profile-img"
-  style="width:160px; max-width:160px; height:auto; border-radius:12px;"
->
+      <img
+        src="{{ '/assets/img/unnamed.jpg' | relative_url }}"
+        alt="Alexander Ferrante"
+        class="profile-img"
+      >
 
       <h1>{{ site.title }}</h1>
       <p class="subtitle">{{ site.description }}</p>
 
-      <nav>
-      <a href="/">Home</a>
-      <a href="/research">Research</a>
-      <a href="/teaching">Teaching</a>
-      <a href="/cv">CV</a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/research' | relative_url }}">Research</a>
+        <a href="{{ '/teaching' | relative_url }}">Teaching</a>
+        <a href="{{ '/cv' | relative_url }}">CV</a>
       </nav>
     </aside>
 
     <main class="content">
       {{ content }}
     </main>
-
   </div>
 </body>
 </html>
