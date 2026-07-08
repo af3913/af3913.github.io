@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Alexander Ferrante
-
 <img src="/assets/img/unnamed.jpg" alt="Alexander Ferrante" width="220" style="border-radius: 8px; margin-bottom: 20px;">
 
 I am a Ph.D. Candidate in Economics at Fordham University. My research interests are in applied microeconomics, labor, health, and education.
