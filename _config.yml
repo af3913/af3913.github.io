@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Alexander Ferrante
 description: Ph.D. Candidate in Economics at Fordham University
-logo: /assets/img/profile.jpg
 
 github:
   is_project_page: false
