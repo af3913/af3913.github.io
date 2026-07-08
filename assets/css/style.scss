@@ -27,18 +27,19 @@ body {
 
 .profile-img {
   display: block;
-  width: 180px;
-  max-width: 100%;
+  width: 160px;
+  max-width: 160px;
   height: auto;
   border-radius: 12px;
   margin: 0 0 24px 0;
   object-fit: cover;
 }
 
-.sidebar h1 {
-  font-size: 1.7rem;
-  margin: 0 0 8px;
-  line-height: 1.2;
+.sidebar img {
+  width: 160px;
+  max-width: 160px;
+  height: auto;
+}e-height: 1.2;
 }
 
 .subtitle {
